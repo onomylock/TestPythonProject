@@ -1,0 +1,14 @@
+python-binance
+sqlalchemy
+schedule
+apprise
+Flask
+gunicorn
+flask-cors
+flask-socketio
+eventlet
+python-socketio[client]
+cachetools
+sqlitedict
+unicorn-binance-websocket-api
+unicorn-fy
